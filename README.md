@@ -1,1 +1,1 @@
-# Automatic-License-Plate-Recongtion-using-Deep-Learning
+# Automatic-Number-Plate-Recongtion-using-Deep-Learning
