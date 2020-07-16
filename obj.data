@@ -1,0 +1,6 @@
+classes= 1
+train  = custom_plate/train.txt
+valid  = custom_plate/valid.txt
+names = custom_plate/obj.names
+backup = backup_plate/
+
